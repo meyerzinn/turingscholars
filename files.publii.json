@@ -2,17 +2,17 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "ac6e3754e2e796b4fc9c4f8a48f6583e"
+        "md5": "2240002b9660b78501453dad64230df9"
     },
     {
         "path": "academics.html",
         "type": "file",
-        "md5": "8695c1a26ee6f4e1b67f4394e730118e"
+        "md5": "d5118002fcb492e9915fd1844c6582d7"
     },
     {
         "path": "admissions.html",
         "type": "file",
-        "md5": "558288c8919c4bc5193a94271797feaf"
+        "md5": "3a688a0c6b1c52b2a046a27b3161eee0"
     },
     {
         "path": "amp",
@@ -22,12 +22,12 @@
     {
         "path": "/amp/academics.html",
         "type": "file",
-        "md5": "e824acca0f4d19830491d3658607aade"
+        "md5": "80b43161af45527fdc48408b5e7ad285"
     },
     {
         "path": "/amp/admissions.html",
         "type": "file",
-        "md5": "55b0d04ed5089fa947cd4aca5db60060"
+        "md5": "19e4a9e4a010537467cea820f480323a"
     },
     {
         "path": "amp/authors",
@@ -42,7 +42,7 @@
     {
         "path": "/amp/authors/tssa-board/index.html",
         "type": "file",
-        "md5": "84312a61858b39a986236049e4c9233c"
+        "md5": "36e9ff9faf05f41dd40d475ce52af2dd"
     },
     {
         "path": "amp/authors/tssa-board/page",
@@ -57,27 +57,27 @@
     {
         "path": "/amp/authors/tssa-board/page/2/index.html",
         "type": "file",
-        "md5": "1d4db1bf6fbbd69bc39163cc17352614"
+        "md5": "bd6cac8ced9f9d26a0e97e461bdb83e7"
     },
     {
         "path": "/amp/contact-us.html",
         "type": "file",
-        "md5": "f1f7682fa10b396dfc2a92937f34b891"
+        "md5": "ea1c4bb59f06a1f15e3cd290c449b71a"
     },
     {
         "path": "/amp/faculty.html",
         "type": "file",
-        "md5": "dad7842b459ed9576c802e4f5038d236"
+        "md5": "7a2c6d144e63b66b075edbaa1117c2b6"
     },
     {
         "path": "/amp/honors-core.html",
         "type": "file",
-        "md5": "a62c9480bb695409abdf12b4ed5ebfe3"
+        "md5": "a4072521d917be5a04da390262f1f8e2"
     },
     {
         "path": "/amp/index.html",
         "type": "file",
-        "md5": "421d14dec9a89f9500a690c5db075acc"
+        "md5": "77888eef1fe37f7950312aeebeaab73d"
     },
     {
         "path": "amp/page",
@@ -92,12 +92,12 @@
     {
         "path": "/amp/page/2/index.html",
         "type": "file",
-        "md5": "ff493b3047d9bdffae46a3860654f4a1"
+        "md5": "9efd8ab02d8ffd8bf6849f01d3cc31aa"
     },
     {
         "path": "/amp/student-lif.html",
         "type": "file",
-        "md5": "fac5f3acc6b2cd76a389c6767181a03d"
+        "md5": "6776358281ff610f39dc0108a9dbd404"
     },
     {
         "path": "amp/tags",
@@ -112,7 +112,7 @@
     {
         "path": "/amp/tags/about/index.html",
         "type": "file",
-        "md5": "4cfa89e0c3af5af3a55a61d8f0ff83ba"
+        "md5": "5dac46f5314bb4eeb47517b51e1bfe75"
     },
     {
         "path": "amp/tags/about/page",
@@ -127,17 +127,17 @@
     {
         "path": "/amp/tags/about/page/2/index.html",
         "type": "file",
-        "md5": "8f606496b08a8b3c50815ced3d207d9a"
+        "md5": "367fa746358024d2d0d5f475fc840392"
     },
     {
         "path": "/amp/turing-scholars-honors-program.html",
         "type": "file",
-        "md5": "59fd0775603118f9e229d2293361f160"
+        "md5": "3246efa3aeb2d4008eccff1efe091905"
     },
     {
         "path": "/amp/why-turing.html",
         "type": "file",
-        "md5": "ffba6e0f0812c1e24f6ee03f8845a657"
+        "md5": "ede2bc8f2b048c99f93aed6b58d25e4d"
     },
     {
         "path": "assets",
@@ -312,7 +312,7 @@
     {
         "path": "/authors/tssa-board/index.html",
         "type": "file",
-        "md5": "51c5935b696632dce69ad0e00a81ff0d"
+        "md5": "b9070f8d99406ce3e0f30439e23182b2"
     },
     {
         "path": "authors/tssa-board/page",
@@ -327,37 +327,37 @@
     {
         "path": "/authors/tssa-board/page/2/index.html",
         "type": "file",
-        "md5": "f2daa608a772e20109bc0f1c82282fdb"
+        "md5": "8d4d31738504bce6c95fc0d841313f31"
     },
     {
         "path": "contact-us.html",
         "type": "file",
-        "md5": "7d361232b192cf4720d185e2024ef856"
+        "md5": "f7497c8b1e326bcd6c377f760126e4c5"
     },
     {
         "path": "faculty.html",
         "type": "file",
-        "md5": "14071a2d4a22ae6c7f15ad17a2419f93"
+        "md5": "f4133cb2d937c2ae69f10203eae2d230"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "cf395ec40e3b408788ebdbea5885a26a"
+        "md5": "6fdd240667729a8b3d165aae79d6b967"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "a66b08d76d598780fe2af8733659d123"
+        "md5": "fc331efa05292d716dd20b858a72fc3e"
     },
     {
         "path": "honors-core.html",
         "type": "file",
-        "md5": "8eb9ee74dbb3dc3f6060ff5ea3887541"
+        "md5": "62ba38da7f2d94f36ac2677675d348e0"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "f5ddd33077aa9dd199c656467f52d6c3"
+        "md5": "736ed606f49d2dbb5abf52fe87fab333"
     },
     {
         "path": "media",
@@ -802,22 +802,22 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "aed0d4d5118f1c23174dee8ef1b44194"
+        "md5": "547692d9549ad35b5326990bf231696c"
     },
     {
         "path": "robots.txt",
         "type": "file",
-        "md5": "525ca672f71dd8f2c72a68290b6c4f43"
+        "md5": "bde0cfb56e3cb2494c63665b01422e1f"
     },
     {
         "path": "search.html",
         "type": "file",
-        "md5": "62b3f817a874a56622a3912067c03411"
+        "md5": "37b1b8abd97fbc8e0589f525231776c4"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "fef7a57cb1ce3c4b4bdc5b5c865ac3c2"
+        "md5": "6ac81b9dda65f80541aa356b3730e756"
     },
     {
         "path": "sitemap.xsl",
@@ -827,7 +827,7 @@
     {
         "path": "student-lif.html",
         "type": "file",
-        "md5": "01969006001738163b2afb7b7864d5d4"
+        "md5": "061510ccbf6a9084ae1b2f48e5238269"
     },
     {
         "path": "tags",
@@ -842,7 +842,7 @@
     {
         "path": "/tags/about/index.html",
         "type": "file",
-        "md5": "3755f3376a5ff19dfa9983eae23db730"
+        "md5": "5b698f3bf4384c98c0a33102b7514ac8"
     },
     {
         "path": "tags/about/page",
@@ -857,21 +857,21 @@
     {
         "path": "/tags/about/page/2/index.html",
         "type": "file",
-        "md5": "7c649225377e27c53a5bc8f8e84b33cd"
+        "md5": "cb8590edce2dbace2e01e4f2dbba00e1"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "f2f8790fa653ac45c342560d50a67f00"
+        "md5": "df527805777e48c0159f1c685939358e"
     },
     {
         "path": "turing-scholars-honors-program.html",
         "type": "file",
-        "md5": "78f9096f70f847fabe1915f3b9942a6a"
+        "md5": "9c37a26e4589c6acc3ea19cd72efa899"
     },
     {
         "path": "why-turing.html",
         "type": "file",
-        "md5": "386805981e2e2f57570d9d0fe08f1f41"
+        "md5": "a126d02cb9f771c580ebeb3c611e7c63"
     }
 ]

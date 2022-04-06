@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Turing Scholars Honors Program</title>
-    <link href="https://tssa.painful.systems/feed.xml" rel="self" />
-    <link href="https://tssa.painful.systems" />
+    <link href="https://turing.painful.systems/feed.xml" rel="self" />
+    <link href="https://turing.painful.systems" />
     <updated>2022-04-06T14:32:50-05:00</updated>
     <author>
         <name>TSSA Board</name>
     </author>
-    <id>https://tssa.painful.systems</id>
+    <id>https://turing.painful.systems</id>
 
     <entry>
         <title>Honors Faculty</title>
         <author>
             <name>TSSA Board</name>
         </author>
-        <link href="https://tssa.painful.systems/faculty.html"/>
-        <id>https://tssa.painful.systems/faculty.html</id>
+        <link href="https://turing.painful.systems/faculty.html"/>
+        <id>https://turing.painful.systems/faculty.html</id>
             <category term="About Turing"/>
 
         <updated>2022-03-22T14:30:08-05:00</updated>
@@ -71,8 +71,8 @@
         <author>
             <name>TSSA Board</name>
         </author>
-        <link href="https://tssa.painful.systems/honors-core.html"/>
-        <id>https://tssa.painful.systems/honors-core.html</id>
+        <link href="https://turing.painful.systems/honors-core.html"/>
+        <id>https://turing.painful.systems/honors-core.html</id>
             <category term="About Turing"/>
 
         <updated>2022-04-06T14:32:50-05:00</updated>
@@ -113,8 +113,8 @@
         <author>
             <name>TSSA Board</name>
         </author>
-        <link href="https://tssa.painful.systems/admissions.html"/>
-        <id>https://tssa.painful.systems/admissions.html</id>
+        <link href="https://turing.painful.systems/admissions.html"/>
+        <id>https://turing.painful.systems/admissions.html</id>
             <category term="About Turing"/>
 
         <updated>2022-02-17T15:53:46-06:00</updated>
@@ -151,20 +151,20 @@
         <author>
             <name>TSSA Board</name>
         </author>
-        <link href="https://tssa.painful.systems/student-lif.html"/>
-        <id>https://tssa.painful.systems/student-lif.html</id>
+        <link href="https://turing.painful.systems/student-lif.html"/>
+        <id>https://turing.painful.systems/student-lif.html</id>
             <category term="About Turing"/>
 
         <updated>2022-03-22T13:44:56-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://tssa.painful.systems/media/posts/3/DSC_0104.JPG" alt="" />
+                        <img src="https://turing.painful.systems/media/posts/3/DSC_0104.JPG" alt="" />
                     Social Spaces There are many great ways to spend time with our community outside of social events. Several spaces are frequented by Turing scholars: The Turing Scholars Student Association has an office on the third floor of the Gates Dell Complex. You'll always be able&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://tssa.painful.systems/media/posts/3/DSC_0104.JPG" alt="" />
+                    <img src="https://turing.painful.systems/media/posts/3/DSC_0104.JPG" alt="" />
                 <div class="post__toc">
 <h3> </h3>
 <ul>
@@ -191,13 +191,13 @@
 <p>The Turing Scholars Student Association (TSSA) is a student organization that regularly hosts free social events for Turing Scholars, including food! Examples of recent events include bowling, a catered Shaved Ice truck social, kickball, a nerf gun battle, super smash bros. tournaments, PowerPoint karaoke, a trick-or-treating research social with professors, and much more. The TSSA is able to hold these events thanks to generous sponsors who support the organization and hold private recruiting events for Turing Scholars.</p>
 <p>At the end of each semester, the TSSA hosts a banquet celebrating our graduating seniors and the accomplishments of our Turing Scholars throughout the semester. Faculty are also invited, and trivia games ensue.</p>
 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://tssa.painful.systems/media/posts/3/gallery/DSC_0041.JPG" data-size="6000x4000"><img loading="lazy" src="https://tssa.painful.systems/media/posts/3/gallery/DSC_0041-thumbnail.JPG" alt="" width="720" height="480"></a>
+<figure class="gallery__item"><a href="https://turing.painful.systems/media/posts/3/gallery/DSC_0041.JPG" data-size="6000x4000"><img loading="lazy" src="https://turing.painful.systems/media/posts/3/gallery/DSC_0041-thumbnail.JPG" alt="" width="720" height="480"></a>
 <figcaption>Turing Scholars play Kahoot! at the fall banquet.</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://tssa.painful.systems/media/posts/3/gallery/IMG_2635.jpeg" data-size="4032x3024"><img loading="lazy" src="https://tssa.painful.systems/media/posts/3/gallery/IMG_2635-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://turing.painful.systems/media/posts/3/gallery/IMG_2635.jpeg" data-size="4032x3024"><img loading="lazy" src="https://turing.painful.systems/media/posts/3/gallery/IMG_2635-thumbnail.jpeg" alt="" width="720" height="540"></a>
 <figcaption>Students enjoy shaved ice at a TSSA social event.</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://tssa.painful.systems/media/posts/3/gallery/IMG_2788.png" data-size="4032x3024"><img loading="lazy" src="https://tssa.painful.systems/media/posts/3/gallery/IMG_2788-thumbnail.png" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://turing.painful.systems/media/posts/3/gallery/IMG_2788.png" data-size="4032x3024"><img loading="lazy" src="https://turing.painful.systems/media/posts/3/gallery/IMG_2788-thumbnail.png" alt="" width="720" height="540"></a>
 <figcaption>Dr. Chris Rossbach plays guitar at a research event organized by the TSSA.</figcaption>
 </figure>
 </div></div>
@@ -206,10 +206,10 @@
 <p>Turing Scholars passionate about athletics often come together and form Turing-wide intramural (IM) sports teams every semester. Team practices are a great way to get to know other Turing Scholars while staying active.</p>
 <p>The most popular Turing teams are The Floppy Disks (ultimate frisbee) and Foo Barcelona (soccer). Turing Scholars have also assembled IM teams for basketball, volleyball, racquetball, flag football, and dodgeball. The TSSA covers all team registration fees at no cost to students.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
-<figure class="gallery__item"><a href="https://tssa.painful.systems/media/posts/3/gallery/73190488_2348627061932577_3732530290522849280_n_1.jpg" data-size="3024x4032"><img loading="lazy" src="https://tssa.painful.systems/media/posts/3/gallery/73190488_2348627061932577_3732530290522849280_n_1-thumbnail.jpg" alt="" width="720" height="960"></a>
+<figure class="gallery__item"><a href="https://turing.painful.systems/media/posts/3/gallery/73190488_2348627061932577_3732530290522849280_n_1.jpg" data-size="3024x4032"><img loading="lazy" src="https://turing.painful.systems/media/posts/3/gallery/73190488_2348627061932577_3732530290522849280_n_1-thumbnail.jpg" alt="" width="720" height="960"></a>
 <figcaption>The Floppy Disks (19-20)</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://tssa.painful.systems/media/posts/3/gallery/IMG_7729.jpg" data-size="4032x3024"><img loading="lazy" src="https://tssa.painful.systems/media/posts/3/gallery/IMG_7729-thumbnail.jpg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://turing.painful.systems/media/posts/3/gallery/IMG_7729.jpg" data-size="4032x3024"><img loading="lazy" src="https://turing.painful.systems/media/posts/3/gallery/IMG_7729-thumbnail.jpg" alt="" width="720" height="540"></a>
 <figcaption>Foo Barcelona (19-20)</figcaption>
 </figure>
 </div></div>
@@ -218,7 +218,7 @@
 <p>There are many great ways to spend time with our community outside of social events. Several spaces are frequented by Turing scholars:</p>
 <h3 id="mcetoc_1fs4n00ml9g">TSSA Office</h3>
 <p>The Turing Scholars Student Association has an office on the third floor of the Gates Dell Complex. You'll always be able to find Turing Scholars working, socializing, and hanging out in the TSSA office from 12-5pm on weekdays.</p>
-<figure class="post__image"><img loading="lazy"  src="https://tssa.painful.systems/media/posts/3/118398541_730446681143665_2737914797078525540_n.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tssa.painful.systems/media/posts/3/responsive/118398541_730446681143665_2737914797078525540_n-xs.jpg 300w ,https://tssa.painful.systems/media/posts/3/responsive/118398541_730446681143665_2737914797078525540_n-sm.jpg 480w ,https://tssa.painful.systems/media/posts/3/responsive/118398541_730446681143665_2737914797078525540_n-md.jpg 768w ,https://tssa.painful.systems/media/posts/3/responsive/118398541_730446681143665_2737914797078525540_n-lg.jpg 1024w ,https://tssa.painful.systems/media/posts/3/responsive/118398541_730446681143665_2737914797078525540_n-xl.jpg 1360w ,https://tssa.painful.systems/media/posts/3/responsive/118398541_730446681143665_2737914797078525540_n-2xl.jpg 1600w"  alt="" width="2000" height="972"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://turing.painful.systems/media/posts/3/118398541_730446681143665_2737914797078525540_n.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://turing.painful.systems/media/posts/3/responsive/118398541_730446681143665_2737914797078525540_n-xs.jpg 300w ,https://turing.painful.systems/media/posts/3/responsive/118398541_730446681143665_2737914797078525540_n-sm.jpg 480w ,https://turing.painful.systems/media/posts/3/responsive/118398541_730446681143665_2737914797078525540_n-md.jpg 768w ,https://turing.painful.systems/media/posts/3/responsive/118398541_730446681143665_2737914797078525540_n-lg.jpg 1024w ,https://turing.painful.systems/media/posts/3/responsive/118398541_730446681143665_2737914797078525540_n-xl.jpg 1360w ,https://turing.painful.systems/media/posts/3/responsive/118398541_730446681143665_2737914797078525540_n-2xl.jpg 1600w"  alt="" width="2000" height="972"></figure>
 <h3 id="mcetoc_1fs4n00ml9h">Honors Dorms</h3>
 <p>Many first year Turing students choose to study together in the lobbies of the dorms that make up the Honors Quad. Students explain complex ideas to each other, study for exams together, and support each other completing common assignments.</p>
 <h3 id="mcetoc_1fs4n00ml9i"><strong>Bill and Melinda Gates Computer Science Complex and Dell Hall</strong></h3>
@@ -264,20 +264,20 @@
         <author>
             <name>TSSA Board</name>
         </author>
-        <link href="https://tssa.painful.systems/academics.html"/>
-        <id>https://tssa.painful.systems/academics.html</id>
+        <link href="https://turing.painful.systems/academics.html"/>
+        <id>https://turing.painful.systems/academics.html</id>
             <category term="About Turing"/>
 
         <updated>2022-03-22T14:29:30-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://tssa.painful.systems/media/posts/2/IMG_4014.jpeg" alt="" />
+                        <img src="https://turing.painful.systems/media/posts/2/IMG_4014.jpeg" alt="" />
                     The Turing Scholars degree plan largely mimics our traditional CS degree plan but includes 10 honors courses that challenge our students in different ways. Highlights of our honors curriculum include: To see a typical four-year plan, check out the Honors section in the UTCS degree&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://tssa.painful.systems/media/posts/2/IMG_4014.jpeg" alt="" />
+                    <img src="https://turing.painful.systems/media/posts/2/IMG_4014.jpeg" alt="" />
                 <p>The Turing Scholars degree plan largely mimics our traditional CS degree plan but includes 10 honors courses that challenge our students in different ways. Highlights of our honors curriculum include:</p>
 <ul>
 <li>An intensive, accelerated set of classes in freshman year, taken with a cohort of honors students</li>
@@ -286,11 +286,11 @@
 <li>Two undergraduate research courses that culminate in an undergraduate honors thesis</li>
 </ul>
 <p>To see a typical four-year plan, check out the Honors section in the <span class="link-annotation-unknown-block-id-1797084410"><a href="https://www.cs.utexas.edu/undergraduate-program/academics/curriculum/degree-plans" class="notion-link-token notion-enable-hover" target="_blank" rel="noopener noreferrer" data-token-index="1" data-reactroot="">UTCS degree plans page</a>.</span></p>
-<h3><a href="file:///Users/meyer/Documents/Publii/sites/turing-scholars-honors-program/preview/why-turing.html">» </a><a href="https://tssa.painful.systems/honors-core.html">Honors core</a></h3>
+<h3><a href="file:///Users/meyer/Documents/Publii/sites/turing-scholars-honors-program/preview/why-turing.html">» </a><a href="https://turing.painful.systems/honors-core.html">Honors core</a></h3>
 <p>The honors core consists of six introductory classes that Turing students take during their freshmen and sophomore years. Turing students then choose additional honors CS electives, as well as department-wide CS electives.</p>
 <p>Students take honors classes covering data structures, discrete mathematics, computer architecture, operating systems, and algorithms, typically in the first two years.</p>
 <p>Over the course of their core, students build a web crawler and search engine, a basic compiler, a pipelined processor in Verilog, an operating system kernel with preemptive multithreading and virtual memory, a driver for the real ext2 file system, and much more.</p>
-<h3><a href="https://tssa.painful.systems/faculty.html">» World-class faculty</a></h3>
+<h3><a href="https://turing.painful.systems/faculty.html">» World-class faculty</a></h3>
 <p>Honors classes are taught by faculty who work at the cutting-edge of computer science and who have demonstrated excellence in teaching.</p>
 <h3>Research</h3>
 <p>Turing Scholars are encouraged to begin undergraduate research as early as possible, and we have created many programs and events to facilitate such research.</p>
@@ -307,20 +307,20 @@
         <author>
             <name>TSSA Board</name>
         </author>
-        <link href="https://tssa.painful.systems/why-turing.html"/>
-        <id>https://tssa.painful.systems/why-turing.html</id>
+        <link href="https://turing.painful.systems/why-turing.html"/>
+        <id>https://turing.painful.systems/why-turing.html</id>
             <category term="About Turing"/>
 
         <updated>2022-03-22T13:48:32-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://tssa.painful.systems/media/posts/1/IMG_2634.jpeg" alt="" />
+                        <img src="https://turing.painful.systems/media/posts/1/IMG_2634.jpeg" alt="" />
                     The Turing Scholars Program is unique. By serving a small number of truly outstanding students—we typically matriculate about 50 first-year Turing Scholars each fall—we are able to provide an outstanding learning experience that combines the resources of a large university with the benefits of a&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://tssa.painful.systems/media/posts/1/IMG_2634.jpeg" alt="" />
+                    <img src="https://turing.painful.systems/media/posts/1/IMG_2634.jpeg" alt="" />
                 <p><strong>The Turing Scholars Program is unique.</strong> By serving a small number of truly outstanding students—we typically matriculate about 50 first-year Turing Scholars each fall—we are able to provide an outstanding learning experience that combines the resources of a large university with the benefits of a small community.</p>
 <p>In particular, our goal is to recruit the best students from around the country, to give them special opportunities, and to produce the high tech leaders of tomorrow. And our program's small size allows us</p>
 <ol>
