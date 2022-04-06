@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tssa.painful.systems/sitemap.xml

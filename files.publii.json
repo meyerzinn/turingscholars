@@ -1,0 +1,877 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "ac6e3754e2e796b4fc9c4f8a48f6583e"
+    },
+    {
+        "path": "academics.html",
+        "type": "file",
+        "md5": "8695c1a26ee6f4e1b67f4394e730118e"
+    },
+    {
+        "path": "admissions.html",
+        "type": "file",
+        "md5": "558288c8919c4bc5193a94271797feaf"
+    },
+    {
+        "path": "amp",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/academics.html",
+        "type": "file",
+        "md5": "e824acca0f4d19830491d3658607aade"
+    },
+    {
+        "path": "/amp/admissions.html",
+        "type": "file",
+        "md5": "55b0d04ed5089fa947cd4aca5db60060"
+    },
+    {
+        "path": "amp/authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "amp/authors/tssa-board",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/authors/tssa-board/index.html",
+        "type": "file",
+        "md5": "84312a61858b39a986236049e4c9233c"
+    },
+    {
+        "path": "amp/authors/tssa-board/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "amp/authors/tssa-board/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/authors/tssa-board/page/2/index.html",
+        "type": "file",
+        "md5": "1d4db1bf6fbbd69bc39163cc17352614"
+    },
+    {
+        "path": "/amp/contact-us.html",
+        "type": "file",
+        "md5": "f1f7682fa10b396dfc2a92937f34b891"
+    },
+    {
+        "path": "/amp/faculty.html",
+        "type": "file",
+        "md5": "dad7842b459ed9576c802e4f5038d236"
+    },
+    {
+        "path": "/amp/honors-core.html",
+        "type": "file",
+        "md5": "a62c9480bb695409abdf12b4ed5ebfe3"
+    },
+    {
+        "path": "/amp/index.html",
+        "type": "file",
+        "md5": "421d14dec9a89f9500a690c5db075acc"
+    },
+    {
+        "path": "amp/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "amp/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/page/2/index.html",
+        "type": "file",
+        "md5": "ff493b3047d9bdffae46a3860654f4a1"
+    },
+    {
+        "path": "/amp/student-lif.html",
+        "type": "file",
+        "md5": "fac5f3acc6b2cd76a389c6767181a03d"
+    },
+    {
+        "path": "amp/tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "amp/tags/about",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/tags/about/index.html",
+        "type": "file",
+        "md5": "4cfa89e0c3af5af3a55a61d8f0ff83ba"
+    },
+    {
+        "path": "amp/tags/about/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "amp/tags/about/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/tags/about/page/2/index.html",
+        "type": "file",
+        "md5": "8f606496b08a8b3c50815ced3d207d9a"
+    },
+    {
+        "path": "/amp/turing-scholars-honors-program.html",
+        "type": "file",
+        "md5": "59fd0775603118f9e229d2293361f160"
+    },
+    {
+        "path": "/amp/why-turing.html",
+        "type": "file",
+        "md5": "ffba6e0f0812c1e24f6ee03f8845a657"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor 2.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main 2.css",
+        "type": "file",
+        "md5": "212f60f726bf1fb9c15422069fc4b600"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "212f60f726bf1fb9c15422069fc4b600"
+    },
+    {
+        "path": "/assets/css/photoswipe 2.css",
+        "type": "file",
+        "md5": "357f87f4e9502a5318d89e8e76e0a344"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "357f87f4e9502a5318d89e8e76e0a344"
+    },
+    {
+        "path": "/assets/css/style 2.css",
+        "type": "file",
+        "md5": "c67e26389eb6b774845b5f0611dabaee"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "5cfcf1b83cd7a0fdce15a1ae1f2fe4df"
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min 2.js",
+        "type": "file",
+        "md5": "d067f0883540b1ddda0e2c9ad1b14260"
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min.js",
+        "type": "file",
+        "md5": "d067f0883540b1ddda0e2c9ad1b14260"
+    },
+    {
+        "path": "/assets/js/photoswipe.min 2.js",
+        "type": "file",
+        "md5": "017385b552f7e0d979e2e2fe6f324015"
+    },
+    {
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "017385b552f7e0d979e2e2fe6f324015"
+    },
+    {
+        "path": "/assets/js/scripts 2.js",
+        "type": "file",
+        "md5": "29e3af53b87c8ff12466ebd1c0ba8e6d"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "29e3af53b87c8ff12466ebd1c0ba8e6d"
+    },
+    {
+        "path": "/assets/js/scripts.min 2.js",
+        "type": "file",
+        "md5": "48e9576b9741cf2a93ab25c5689c9f5d"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "48e9576b9741cf2a93ab25c5689c9f5d"
+    },
+    {
+        "path": "/assets/js/svg-fix 2.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map 2.js",
+        "type": "file",
+        "md5": "350bb511eba46f390e88bbea74abb0ac"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "350bb511eba46f390e88bbea74abb0ac"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/gallery-icons-dark 2.svg",
+        "type": "file",
+        "md5": "452594838e74a3df91ad4a20cf53c831"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-dark.svg",
+        "type": "file",
+        "md5": "452594838e74a3df91ad4a20cf53c831"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light 2.svg",
+        "type": "file",
+        "md5": "ca77079e0fe8270a7447d7f1f5d543b0"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light.svg",
+        "type": "file",
+        "md5": "ca77079e0fe8270a7447d7f1f5d543b0"
+    },
+    {
+        "path": "/assets/svg/search 2.svg",
+        "type": "file",
+        "md5": "a5bb83b82b98f41b359f20dbf9db6e44"
+    },
+    {
+        "path": "/assets/svg/search.svg",
+        "type": "file",
+        "md5": "a5bb83b82b98f41b359f20dbf9db6e44"
+    },
+    {
+        "path": "/assets/svg/svg-map 2.svg",
+        "type": "file",
+        "md5": "3c5bef20cd9e16841afe49cf089a6c20"
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "3c5bef20cd9e16841afe49cf089a6c20"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/tssa-board",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/tssa-board/index.html",
+        "type": "file",
+        "md5": "51c5935b696632dce69ad0e00a81ff0d"
+    },
+    {
+        "path": "authors/tssa-board/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/tssa-board/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/tssa-board/page/2/index.html",
+        "type": "file",
+        "md5": "f2daa608a772e20109bc0f1c82282fdb"
+    },
+    {
+        "path": "contact-us.html",
+        "type": "file",
+        "md5": "7d361232b192cf4720d185e2024ef856"
+    },
+    {
+        "path": "faculty.html",
+        "type": "file",
+        "md5": "14071a2d4a22ae6c7f15ad17a2419f93"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "cf395ec40e3b408788ebdbea5885a26a"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "a66b08d76d598780fe2af8733659d123"
+    },
+    {
+        "path": "honors-core.html",
+        "type": "file",
+        "md5": "8eb9ee74dbb3dc3f6060ff5ea3887541"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "f5ddd33077aa9dd199c656467f52d6c3"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/IMG_2634.jpeg",
+        "type": "file",
+        "md5": "559b7e915d39282dc86392565ce9fc58"
+    },
+    {
+        "path": "media/posts/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/responsive/IMG_2634-2xl.jpeg",
+        "type": "file",
+        "md5": "8dbf89c7b56bae143b940e3dd59e96c5"
+    },
+    {
+        "path": "/media/posts/1/responsive/IMG_2634-lg.jpeg",
+        "type": "file",
+        "md5": "20fbdb73ea9617d713172fb5bd286149"
+    },
+    {
+        "path": "/media/posts/1/responsive/IMG_2634-md.jpeg",
+        "type": "file",
+        "md5": "d313f9f539bbaf0801dc34eaa7a4ca86"
+    },
+    {
+        "path": "/media/posts/1/responsive/IMG_2634-sm.jpeg",
+        "type": "file",
+        "md5": "26e5bd05b5cc97d15b17d57571cdcdb6"
+    },
+    {
+        "path": "/media/posts/1/responsive/IMG_2634-xl.jpeg",
+        "type": "file",
+        "md5": "530b08cf1b4b11ab7471d8db04a196f0"
+    },
+    {
+        "path": "/media/posts/1/responsive/IMG_2634-xs.jpeg",
+        "type": "file",
+        "md5": "dcc010ce2740cac2db3331962bf1c257"
+    },
+    {
+        "path": "media/posts/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/IMG_4014.jpeg",
+        "type": "file",
+        "md5": "23e5f3416dccce7fd66a0f0982d86b5a"
+    },
+    {
+        "path": "media/posts/2/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/responsive/IMG_4014-2xl.jpeg",
+        "type": "file",
+        "md5": "12110b9cd816ef1ec7054184eca8e854"
+    },
+    {
+        "path": "/media/posts/2/responsive/IMG_4014-lg.jpeg",
+        "type": "file",
+        "md5": "1e28e8b742b01ab330a7119d185c1641"
+    },
+    {
+        "path": "/media/posts/2/responsive/IMG_4014-md.jpeg",
+        "type": "file",
+        "md5": "e6a6e2c5ec5ff9b67ccfdf1405d4cc2c"
+    },
+    {
+        "path": "/media/posts/2/responsive/IMG_4014-sm.jpeg",
+        "type": "file",
+        "md5": "308bc0f10f58a616addc4eebf0852110"
+    },
+    {
+        "path": "/media/posts/2/responsive/IMG_4014-xl.jpeg",
+        "type": "file",
+        "md5": "e4bef3ed25638af48ea47ea68037475a"
+    },
+    {
+        "path": "/media/posts/2/responsive/IMG_4014-xs.jpeg",
+        "type": "file",
+        "md5": "f0a97bb1a34aa7b6ac73aaa2b11fc759"
+    },
+    {
+        "path": "media/posts/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/118398541_730446681143665_2737914797078525540_n.jpg",
+        "type": "file",
+        "md5": "0e06e3a4cc2ff1239d3adaa9a511ef55"
+    },
+    {
+        "path": "/media/posts/3/73190488_2348627061932577_3732530290522849280_n_1.jpg",
+        "type": "file",
+        "md5": "ec08d7420f9b993a480881ec5ebd7a18"
+    },
+    {
+        "path": "/media/posts/3/DSC_0104.JPG",
+        "type": "file",
+        "md5": "987927972bda805c72760877f192cde8"
+    },
+    {
+        "path": "/media/posts/3/IMG_7729.jpg",
+        "type": "file",
+        "md5": "1b526bb9e77c167a6250bf2a1c397a5c"
+    },
+    {
+        "path": "media/posts/3/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/gallery/73190488_2348627061932577_3732530290522849280_n_1-thumbnail.jpg",
+        "type": "file",
+        "md5": "52d529837856c4279a86dc6d1ec496b8"
+    },
+    {
+        "path": "/media/posts/3/gallery/73190488_2348627061932577_3732530290522849280_n_1.jpg",
+        "type": "file",
+        "md5": "ec08d7420f9b993a480881ec5ebd7a18"
+    },
+    {
+        "path": "/media/posts/3/gallery/DSC_0041-thumbnail.JPG",
+        "type": "file",
+        "md5": "bde742659574131bc8e97885f3afe103"
+    },
+    {
+        "path": "/media/posts/3/gallery/DSC_0041.JPG",
+        "type": "file",
+        "md5": "043aae312026ae2b407887989972946d"
+    },
+    {
+        "path": "/media/posts/3/gallery/IMG_2635-thumbnail.jpeg",
+        "type": "file",
+        "md5": "3045cc57e8b0676f992f6b2ed3e3187c"
+    },
+    {
+        "path": "/media/posts/3/gallery/IMG_2635.jpeg",
+        "type": "file",
+        "md5": "93db9c44e02711051585e62ba7ce9e76"
+    },
+    {
+        "path": "/media/posts/3/gallery/IMG_2788-thumbnail.png",
+        "type": "file",
+        "md5": "9e09e1a8ab4e8bc7455973f50eff472a"
+    },
+    {
+        "path": "/media/posts/3/gallery/IMG_2788.png",
+        "type": "file",
+        "md5": "0af4c5a2a0a837663f280d3ac702425d"
+    },
+    {
+        "path": "/media/posts/3/gallery/IMG_7729-thumbnail.jpg",
+        "type": "file",
+        "md5": "b3ea7a51beb1a3b5a0d4827680f705e4"
+    },
+    {
+        "path": "/media/posts/3/gallery/IMG_7729.jpg",
+        "type": "file",
+        "md5": "1b526bb9e77c167a6250bf2a1c397a5c"
+    },
+    {
+        "path": "media/posts/3/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/responsive/118398541_730446681143665_2737914797078525540_n-2xl.jpg",
+        "type": "file",
+        "md5": "2b52a61b2e6d4e57ad42e92f15c239dc"
+    },
+    {
+        "path": "/media/posts/3/responsive/118398541_730446681143665_2737914797078525540_n-lg.jpg",
+        "type": "file",
+        "md5": "3781384d1833108b7768288e218a1f60"
+    },
+    {
+        "path": "/media/posts/3/responsive/118398541_730446681143665_2737914797078525540_n-md.jpg",
+        "type": "file",
+        "md5": "80afc3f50b95f920482331932ae8d6d7"
+    },
+    {
+        "path": "/media/posts/3/responsive/118398541_730446681143665_2737914797078525540_n-sm.jpg",
+        "type": "file",
+        "md5": "59b842f18621ac45c46081c89a0aad79"
+    },
+    {
+        "path": "/media/posts/3/responsive/118398541_730446681143665_2737914797078525540_n-xl.jpg",
+        "type": "file",
+        "md5": "07d8df1b624d56abb19f51452581c6b3"
+    },
+    {
+        "path": "/media/posts/3/responsive/118398541_730446681143665_2737914797078525540_n-xs.jpg",
+        "type": "file",
+        "md5": "7f3aaaf69e2c10fc1914df2f06c674a8"
+    },
+    {
+        "path": "/media/posts/3/responsive/73190488_2348627061932577_3732530290522849280_n_1-2xl.jpg",
+        "type": "file",
+        "md5": "5f9d3f605f3a5f9e50568cb7ea19da3c"
+    },
+    {
+        "path": "/media/posts/3/responsive/73190488_2348627061932577_3732530290522849280_n_1-lg.jpg",
+        "type": "file",
+        "md5": "5c85f189d5af9169924588a66ccc6ef5"
+    },
+    {
+        "path": "/media/posts/3/responsive/73190488_2348627061932577_3732530290522849280_n_1-md.jpg",
+        "type": "file",
+        "md5": "e1b373d592330c8124a4eca559023eb8"
+    },
+    {
+        "path": "/media/posts/3/responsive/73190488_2348627061932577_3732530290522849280_n_1-sm.jpg",
+        "type": "file",
+        "md5": "fe9ddb83ada0411cce093a09f4825826"
+    },
+    {
+        "path": "/media/posts/3/responsive/73190488_2348627061932577_3732530290522849280_n_1-xl.jpg",
+        "type": "file",
+        "md5": "ba4062e42106c36459daa113da719f5f"
+    },
+    {
+        "path": "/media/posts/3/responsive/73190488_2348627061932577_3732530290522849280_n_1-xs.jpg",
+        "type": "file",
+        "md5": "d86359c6f398defc0da4881a9822a68b"
+    },
+    {
+        "path": "/media/posts/3/responsive/DSC_0104-2xl.JPG",
+        "type": "file",
+        "md5": "f4dce078ef4828af59ebb725c605f7d3"
+    },
+    {
+        "path": "/media/posts/3/responsive/DSC_0104-lg.JPG",
+        "type": "file",
+        "md5": "9d4f9ac43fb7f929c20c8a82790cea56"
+    },
+    {
+        "path": "/media/posts/3/responsive/DSC_0104-md.JPG",
+        "type": "file",
+        "md5": "38adefb8f83159aa847e65f2a932d8b9"
+    },
+    {
+        "path": "/media/posts/3/responsive/DSC_0104-sm.JPG",
+        "type": "file",
+        "md5": "f8168fd2831d954ea9d7c0f8d5f9e049"
+    },
+    {
+        "path": "/media/posts/3/responsive/DSC_0104-xl.JPG",
+        "type": "file",
+        "md5": "fd9adb7c6164412af33b09a467b72912"
+    },
+    {
+        "path": "/media/posts/3/responsive/DSC_0104-xs.JPG",
+        "type": "file",
+        "md5": "e3af4aba2d26fdcdb4ebb74ae80746a4"
+    },
+    {
+        "path": "/media/posts/3/responsive/IMG_7729-2xl.jpg",
+        "type": "file",
+        "md5": "72c0cc14ec2c9a999709dd23d91addb1"
+    },
+    {
+        "path": "/media/posts/3/responsive/IMG_7729-lg.jpg",
+        "type": "file",
+        "md5": "d27d33bc1777108b3243b2e478eeda89"
+    },
+    {
+        "path": "/media/posts/3/responsive/IMG_7729-md.jpg",
+        "type": "file",
+        "md5": "cc565abfe93b93946ed2c2ee210adecb"
+    },
+    {
+        "path": "/media/posts/3/responsive/IMG_7729-sm.jpg",
+        "type": "file",
+        "md5": "eb6adcd774f6ac8e294e9457c34288eb"
+    },
+    {
+        "path": "/media/posts/3/responsive/IMG_7729-xl.jpg",
+        "type": "file",
+        "md5": "52bd66f130003d605934d173f47fc99e"
+    },
+    {
+        "path": "/media/posts/3/responsive/IMG_7729-xs.jpg",
+        "type": "file",
+        "md5": "a72ad45a9e63c408c10adbf2fe6d9406"
+    },
+    {
+        "path": "media/posts/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/hero.jpeg",
+        "type": "file",
+        "md5": "747bb1513874a6842ab89732bdb868e5"
+    },
+    {
+        "path": "media/posts/5/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/responsive/hero-2xl.jpeg",
+        "type": "file",
+        "md5": "9f9ba23b8e58b8aeb25a12bdcfb5e4c2"
+    },
+    {
+        "path": "/media/posts/5/responsive/hero-lg.jpeg",
+        "type": "file",
+        "md5": "28496101019319f5d2d89b14ae0b0cb4"
+    },
+    {
+        "path": "/media/posts/5/responsive/hero-md.jpeg",
+        "type": "file",
+        "md5": "3fcdaccc47a843e0783a8e246602503f"
+    },
+    {
+        "path": "/media/posts/5/responsive/hero-sm.jpeg",
+        "type": "file",
+        "md5": "8bfd027800978e803b16848aacf1bee4"
+    },
+    {
+        "path": "/media/posts/5/responsive/hero-xl.jpeg",
+        "type": "file",
+        "md5": "8f07402aba3c8eca7f5ed812fb64a4f5"
+    },
+    {
+        "path": "/media/posts/5/responsive/hero-xs.jpeg",
+        "type": "file",
+        "md5": "86d316102d52f174ffb9f89c155da805"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/Group-9.png",
+        "type": "file",
+        "md5": "d4829164c7ded80dffbe071e80b3a584"
+    },
+    {
+        "path": "/media/website/hero.jpeg",
+        "type": "file",
+        "md5": "747bb1513874a6842ab89732bdb868e5"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/Group-9-2xl.png",
+        "type": "file",
+        "md5": "4d2cb72fc1beb845bea0534dfebf5581"
+    },
+    {
+        "path": "/media/website/responsive/Group-9-lg.png",
+        "type": "file",
+        "md5": "4d2cb72fc1beb845bea0534dfebf5581"
+    },
+    {
+        "path": "/media/website/responsive/Group-9-md.png",
+        "type": "file",
+        "md5": "4d2cb72fc1beb845bea0534dfebf5581"
+    },
+    {
+        "path": "/media/website/responsive/Group-9-sm.png",
+        "type": "file",
+        "md5": "ae61e6561ca01ef1278cbb8fd55824d0"
+    },
+    {
+        "path": "/media/website/responsive/Group-9-xl.png",
+        "type": "file",
+        "md5": "4d2cb72fc1beb845bea0534dfebf5581"
+    },
+    {
+        "path": "/media/website/responsive/Group-9-xs.png",
+        "type": "file",
+        "md5": "dd5f74b32d4bd828517c42d46f259efb"
+    },
+    {
+        "path": "/media/website/responsive/hero-2xl.jpeg",
+        "type": "file",
+        "md5": "8b2ca4a8ce5bd561dcab3f43c9202580"
+    },
+    {
+        "path": "/media/website/responsive/hero-lg.jpeg",
+        "type": "file",
+        "md5": "f3e9823119ab025e58e91fc296734584"
+    },
+    {
+        "path": "/media/website/responsive/hero-md.jpeg",
+        "type": "file",
+        "md5": "c8a03cfeef2abebc567e6deca46b54c1"
+    },
+    {
+        "path": "/media/website/responsive/hero-sm.jpeg",
+        "type": "file",
+        "md5": "8d3d1668bd3ee4fdc2374c10516b4e06"
+    },
+    {
+        "path": "/media/website/responsive/hero-xl.jpeg",
+        "type": "file",
+        "md5": "fb2281090b6f0294a2e727ba5186ffda"
+    },
+    {
+        "path": "/media/website/responsive/hero-xs.jpeg",
+        "type": "file",
+        "md5": "ca1da6055499d4a69eb3d538e4fdbb89"
+    },
+    {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "aed0d4d5118f1c23174dee8ef1b44194"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "525ca672f71dd8f2c72a68290b6c4f43"
+    },
+    {
+        "path": "search.html",
+        "type": "file",
+        "md5": "62b3f817a874a56622a3912067c03411"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "fef7a57cb1ce3c4b4bdc5b5c865ac3c2"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+    },
+    {
+        "path": "student-lif.html",
+        "type": "file",
+        "md5": "01969006001738163b2afb7b7864d5d4"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "tags/about",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/about/index.html",
+        "type": "file",
+        "md5": "3755f3376a5ff19dfa9983eae23db730"
+    },
+    {
+        "path": "tags/about/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "tags/about/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/about/page/2/index.html",
+        "type": "file",
+        "md5": "7c649225377e27c53a5bc8f8e84b33cd"
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "f2f8790fa653ac45c342560d50a67f00"
+    },
+    {
+        "path": "turing-scholars-honors-program.html",
+        "type": "file",
+        "md5": "78f9096f70f847fabe1915f3b9942a6a"
+    },
+    {
+        "path": "why-turing.html",
+        "type": "file",
+        "md5": "386805981e2e2f57570d9d0fe08f1f41"
+    }
+]
