@@ -3,7 +3,7 @@
     <title>Turing Scholars Honors Program</title>
     <link href="https://turing.painful.systems/feed.xml" rel="self" />
     <link href="https://turing.painful.systems" />
-    <updated>2022-04-06T14:32:50-05:00</updated>
+    <updated>2022-04-06T15:03:33-05:00</updated>
     <author>
         <name>TSSA Board</name>
     </author>
@@ -75,14 +75,16 @@
         <id>https://turing.painful.systems/honors-core.html</id>
             <category term="About Turing"/>
 
-        <updated>2022-04-06T14:32:50-05:00</updated>
+        <updated>2022-04-06T14:58:39-05:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://turing.painful.systems/media/posts/7/DSC_0549.JPG" alt="" />
                     The honors core consists of six introductory classes that Turing students take during their freshmen and sophomore years. Turing students then choose additional honors CS electives, as well as department-wide CS electives. You can find a typical four-year honors degree plan on the UTCS degree&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://turing.painful.systems/media/posts/7/DSC_0549.JPG" alt="" />
                 <p>The honors core consists of six introductory classes that Turing students take during their freshmen and sophomore years. Turing students then choose additional honors CS electives, as well as department-wide CS electives. </p>
 <p>You can find a typical four-year honors degree plan on the <a href="https://www.cs.utexas.edu/undergraduate-program/academics/curriculum/degree-plans" class="notion-link-token notion-enable-hover" target="_blank" rel="noopener noreferrer" data-token-index="1" data-reactroot=""><span class="link-annotation-unknown-block-id-1797084410">UTCS degree plans page</span></a>.</p>
 <h3><span class="notion-enable-hover" data-token-index="0" data-reactroot="">C S 314H: Data Structures</span></h3>
@@ -155,7 +157,7 @@
         <id>https://turing.painful.systems/student-lif.html</id>
             <category term="About Turing"/>
 
-        <updated>2022-03-22T13:44:56-05:00</updated>
+        <updated>2022-04-06T15:03:33-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://turing.painful.systems/media/posts/3/DSC_0104.JPG" alt="" />
@@ -166,7 +168,7 @@
             <![CDATA[
                     <img src="https://turing.painful.systems/media/posts/3/DSC_0104.JPG" alt="" />
                 <div class="post__toc">
-<h3> </h3>
+<h3>Table of Contents</h3>
 <ul>
 <li><a href="#mcetoc_1fs4n00ml9d">Turing Scholars Student Association</a></li>
 <li><a href="#mcetoc_1fs4n00ml9e">Turing Intramural Sports</a></li>
@@ -183,8 +185,8 @@
 <li><a href="#mcetoc_1fs4n00ml9l">Women in Computer Science (WiCS)</a></li>
 </ul>
 </li>
-<li><a href="#mcetoc_1fs4n00ml9m">Big/Little Endian Program</a></li>
-<li><a href="#mcetoc_1fs4n00ml9n">Corporate Sponsors 2021-2022</a></li>
+<li><a href="#mcetoc_1fs4n00ml9m">Big/Little Program</a></li>
+<li><a href="#mcetoc_1fs4n00ml9n">Corporate Sponsors (2021-2022)</a></li>
 </ul>
 </div>
 <h2 id="mcetoc_1fs4n00ml9d">Turing Scholars Student Association</h2>
