@@ -97,7 +97,7 @@
     {
         "path": "/amp/student-lif.html",
         "type": "file",
-        "md5": "a3d806af7cbf014d8b6c266071eceec5"
+        "md5": "90c3d93a8a264e29436158dd2b991ba1"
     },
     {
         "path": "amp/tags",
@@ -342,12 +342,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "551e37d59c3e8b72cb93860180751d0f"
+        "md5": "dd9a7788674f96dff1642203fc8a4835"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "709853bb6d98fb03dbb87c899a0089f1"
+        "md5": "293ed299f8000dcfa3fc537608942d49"
     },
     {
         "path": "honors-core.html",
@@ -907,7 +907,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "fa8697ef337fc428601e84899c64c85f"
+        "md5": "73add2780c0f539d89c8a0c4b6f4d2e0"
     },
     {
         "path": "sitemap.xsl",
@@ -917,7 +917,7 @@
     {
         "path": "student-lif.html",
         "type": "file",
-        "md5": "ad7dcc60016bb15e8d5a2757e3cae279"
+        "md5": "dcae689614dea75dc347f67a2d93ec40"
     },
     {
         "path": "tags",
